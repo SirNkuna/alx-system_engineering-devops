@@ -1,0 +1,2 @@
+#!/bin/bash
+cgmod ug+x.o+r hello
