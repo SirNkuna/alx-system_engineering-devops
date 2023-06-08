@@ -1,2 +1,2 @@
 #!/bin/bash
-cgmod ug+x.o+r hello
+chmod u+x helloi
